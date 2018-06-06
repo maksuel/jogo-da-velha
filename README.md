@@ -8,4 +8,4 @@ Em uma folha sulfite desenvolvi o HTML/CSS e a lógica em JS. Compilei o código
 * Editor: [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * Debug tool: [JS Bin](https://jsbin.com/)
 
-* [DEMO]()
+* [DEMO](https://maksuel.github.io/jogo-da-velha/)
