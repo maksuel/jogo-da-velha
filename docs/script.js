@@ -1,6 +1,6 @@
 const INIT = '·';
 
-( () => {
+document.fonts.load('64px Indie Flower').then( () => {
   let status = INIT;
   let td = document.querySelector('table').querySelector('tbody').querySelectorAll('td');
   
@@ -50,4 +50,4 @@ const INIT = '·';
       isWin();
     });
   }
-})();
+});
